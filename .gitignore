@@ -10,3 +10,17 @@ out/
 compile_commands.json
 Makefile
 .libs/
+*.o
+*.lo
+.clangd/
+config.log
+config.status
+lemon
+lempar.c
+libsqlite.la
+parse.c
+parse.h
+parse.out
+parse.y
+sqlite
+sqlite.h
